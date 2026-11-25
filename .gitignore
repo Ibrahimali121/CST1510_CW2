@@ -9,3 +9,6 @@ DATA/users.txt
 .streamlit/secrets.toml
 practice/
 Week 00 - Orientation and Setup/
+*.db
+*.env
+users.txt
